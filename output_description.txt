@@ -1,0 +1,4 @@
+This SAS program generates a tabular report of European cars
+with MSRP greater than 30000 from the sashelp.cars dataset.
+The report displays Make, Model, Type, City MPG, and Highway MPG
+with a title and footnote applied.
